@@ -30,7 +30,12 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
+%% Predict Coding
+% X : 5000 * 401 
+% theta : 10 * 401
 
+y_p = X * all_theta';
+[v, p] = max(y_p ,[] ,2);
 
 
 

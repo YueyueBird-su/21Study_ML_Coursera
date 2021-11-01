@@ -45,7 +45,7 @@ Q&A：Regularization和Momentum的区别？
 
 [^1]: theta 需要同步更新，即算完所有的梯度之后统一更新
 [^2]: 特征缩放；Normal equation；Octave 函数
-[^3 ]:sigmoid Function；Advanced Gradient；one-vs-all；Overfitting；Regularization；
+[^3]:sigmoid Function；Advanced Gradient；one-vs-all；Overfitting；Regularization；
 [^4]:非线性多特征假设；Neural Networks；Vectorized implementation；Multi-class classification；
 
 
